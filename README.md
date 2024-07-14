@@ -11,7 +11,7 @@ Loading is a simple Python application that displays an animated progress bar.
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/andresnalegre/loading.git
+git clone https://github.com/andresnalegre/Loading.git
 ```
 
 2. Navigate to the project directory:
