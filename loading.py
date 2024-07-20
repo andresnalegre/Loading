@@ -21,9 +21,9 @@ class LoadingApp:
                              background='#4caf50',
                              troughrelief='flat',
                              relief='flat',
-                             bordercolor='#c0c0c0',  # Cor da borda
-                             lightcolor='#c0c0c0',  # Cor do lado claro da borda
-                             darkcolor='#c0c0c0')   # Cor do lado escuro da borda
+                             bordercolor='#c0c0c0',
+                             lightcolor='#c0c0c0',
+                             darkcolor='#c0c0c0')
         self.style.map("TProgressbar",
                        troughcolor=[('!disabled', '#f0f0f0')],
                        background=[('!disabled', '#4caf50')])
